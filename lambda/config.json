@@ -1,0 +1,7 @@
+{
+    "aws_region": "us-east-1",
+    "s3_bucket_name": "RecipeRescueBucket",
+    "recipe_text_input": "recipe_images",
+    "recipe_text_output": "english_recipes_txt",
+    "translation_api_key": "your-translation-api-key"
+  }
